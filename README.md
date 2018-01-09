@@ -1,6 +1,5 @@
 # Habgrab
-Grab resources from Habbo Hotel using this program.
+Grab resources from Habbo Hotel.
 
 ## About
-* Java 8
-* Developed for Windows 10.
+Written in Java 8 by user Mean.
