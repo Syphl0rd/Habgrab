@@ -9,3 +9,4 @@ Written in Java 8 by user <a href="https://www.habbo.com/profile/Mean">Mean</a>.
 * Allows grabbing of current SWF.
 * Able to crack the current SWF.
 * Can grab entire SWF pack/directory.
+* Can grab content from other hotels.
